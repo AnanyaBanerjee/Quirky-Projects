@@ -1,0 +1,36 @@
+Data Science Programming Task
+You are provided with a large number of Wikipedia comments which have been labeled by human raters for toxic behaviour. The types of toxicity are:
+
+    1. toxic
+    2. severe_toxic
+    3. obscene
+    4. threat
+    5. insult
+    6. identity_hate
+
+Tasks to be accomplished
+
+1. Perform a descriptive statistical analysis over the data and make surprising inferences.
+2. Create models which predict a probability of each type of toxicity for each comment.
+3. Design and explain the data science pipeline followed in this task involving Data preprocessing, Data Analysis, Feature Engineering, and Model evaluation. 
+
+Helpful links: you are free to use any python library
+
+1. https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a 
+2. https://pythonfordatascience.org/inferential-statistics/
+3. https://www.kaggle.com/baghern/a-deep-dive-into-sklearn-pipelines#
+4. https://github.com/manasgaur/Machine_Learning_Refresher
+
+File descriptions
+
+train.csv - the training set, contains comments with their binary labels
+test.csv - the test set, you must predict the toxicity probabilities for these comments. To deter hand labeling, the test set contains some comments which are not included in the scoring.
+sample_submission.csv - a sample submission file in the correct format
+test_labels.csv - labels for the test data; value of -1 indicates it was not used for scoring; (Note: file added after competition close!)
+
+Submission Instruction:
+Please turn in a jupyter or ipython notebook (.ipynb) which your code snippets and documentation in it to ugur@knoesis.org. 
+For example https://bit.ly/2P8zmaK
+
+Note: We are interested in your attempt to provide a convincing approach to the problem and not excelling in it. You can always turn to web for help, however, a copied code will flag rejection of your application.
+
