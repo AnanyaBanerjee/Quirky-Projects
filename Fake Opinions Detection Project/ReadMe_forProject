@@ -1,0 +1,19 @@
+The actual dataset for the project was >25MB and could not be uploaded here.
+So, I have just uploaded the 1000 datapoints dataset.
+
+There are 3 .py files:
+1. Pj.py
+2. Proj_Processing.py
+3. Bow.py
+
+The file Pj.py merges the two datsets meta.txt and reviewContent.txt on user_id, product_id and date to create a file reviews.csv
+
+The file Proj_Processing.py performs pre-processing on the dataset and generates pre_processed.csv
+
+The file Bow.py makes the BOW-TFIDF model and performs feature engineering and tests the model on SVM, Random Forest, Logistic Regression, Gradient Boosting and AdaBoost.
+
+The details as to how the project was done can be found in the document Steps for Project shared in the folder.
+
+The dataset which was used was Yelp's NYC dataset and the citation is mentioned in the project document.
+
+Thank you!
