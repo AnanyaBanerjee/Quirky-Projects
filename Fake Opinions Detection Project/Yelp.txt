@@ -15,6 +15,6 @@ Please cite: (if you are using this work)
 author = {Shebuti Rayana and Leman Akoglu},
 title = {Collective Opinion Spam Detection: Bridging Review Networks and metadata},
 booktitle = {Proceeding of the 21st ACM SI/Users/Mammu/Desktop/BIG DATA project/reviewContent.txtGKDD international conference
-on Knowledge discovery and data mining, {KDD’15}},
+on Knowledge discovery and data mining, {KDDâ€™15}},
 year = {2015},
 }
